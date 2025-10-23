@@ -1,0 +1,59 @@
+language.name=English
+language.region=US
+language.code=en_us
+
+menu.singleplayer=Singleplayer
+menu.multiplayer=Multiplayer
+menu.options=Options...
+menu.quit=Quit Game
+menu.returnToMenu=Save and Quit to Title
+menu.returnToGame=Back to Game
+menu.loading=Loading...
+menu.generatingLevel=Generating world
+menu.saving=Saving world
+menu.respawning=Respawning
+menu.shareToLan=Open to LAN
+menu.player=Player
+
+options.title=Options
+options.language=Language...
+options.video=Video Settings...
+options.controls=Controls...
+options.sounds=Sounds...
+options.music=Music
+options.difficulty=Difficulty
+options.difficulty.easy=Easy
+options.difficulty.normal=Normal
+options.difficulty.hard=Hard
+options.difficulty.peaceful=Peaceful
+
+deathScreen.title=You Died!
+deathScreen.respawn=Respawn
+deathScreen.titleScreen=Title Screen
+
+selectWorld.title=Select World
+selectWorld.create=Create New World
+selectWorld.rename=Rename
+selectWorld.delete=Delete
+selectWorld.play=Play Selected World
+
+gameMode.survival=Survival
+gameMode.creative=Creative
+gameMode.adventure=Adventure
+gameMode.spectator=Spectator
+
+selectServer.title=Select Server
+selectServer.add=Add Server
+selectServer.direct=Direct Connect
+selectServer.delete=Delete
+selectServer.edit=Edit
+selectServer.play=Join Server
+
+chat.type.text=<%s> %s
+chat.type.achievement=%s has earned the achievement %s
+chat.type.admin=[%s: %s]
+chat.copy=Copy to Clipboard
+
+gui.done=Done
+gui.cancel=Cancel
+gui.back=Back
